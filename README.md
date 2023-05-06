@@ -1,0 +1,4 @@
+# Blackjack-Python
+
+## Technologies:
+- Python

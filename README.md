@@ -1,4 +1,4 @@
-# Blackjack-Python
+# Blackjack Python
 
 ## Technologies:
 - Python
